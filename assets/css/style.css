@@ -731,17 +731,8 @@ h6 {
 #speakers .speaker .details p {
   color: #fff;
   font-size: 15px;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
   font-style: italic;
-}
-
-#speakers .speaker .details .social {
-  height: 40px;
-}
-
-#speakers .speaker .details .social i {
-  line-height: 0;
-  margin: 0 2px;
 }
 
 #speakers .speaker .details a {
